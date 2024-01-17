@@ -1,4 +1,4 @@
-const video = document.querySelector("video")
-
-console.log(video)
-video.play()
+setTimeout(() => {
+  window.location.href =
+    "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley";
+}, 1000);
